@@ -4,8 +4,7 @@
 - 👨‍🎓 I'm a Software Engineering Student
 - 🌱 I’m currently learning Web Development 🔥🔥🔥
 - 🎮 Learning Machine learning and Computer Vision, stay tuned! 😉😉
-- 🥅 2022 Goals: To find a Job as a Junior Software Engineer
-- ⚡ Fun fact: Found my camera **33 meters deep** in the ocean after it was lost for a **week**!🌊🌊
+
 
 ### Connect with me:
 
